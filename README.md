@@ -26,7 +26,7 @@ I am a **Computer Science student** with a passion for **AI, Machine Learning, S
 ## 📊 **GitHub Stats**  
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=deepakreddyn&show_icons=true&theme=github_dark" width="48%" alt="GitHub Stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakreddyn&theme=github-dark-blue" width="48%" alt="GitHub Streak" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakreddyn&layout=compact&theme=github_dark" width="48%" alt="Top Languages" />  
 </div>  
 
 ---
@@ -36,8 +36,9 @@ I am a **Computer Science student** with a passion for **AI, Machine Learning, S
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakreddyn)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DeepakReddyNainakanti/)  
 
+📧 **Email:** deepakreddynainakanti1904@gmail.com  
+
 ---
 
 📢 **Open to Opportunities:** Software Development, AI/ML, Data Analytics, and Cybersecurity.  
 💡 **Let’s collaborate and build impactful solutions!** 🚀  
-
