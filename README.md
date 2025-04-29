@@ -16,7 +16,7 @@ I am a **Computer Science student** with a passion for **AI, Machine Learning, S
 ---
 
 ## 🌟 **Highlighted Projects**  
-📌 [**Heart Stroke Prediction**](https://github.com/deepakreddyn/heartstorkepredictor) → Application for predicting heart stroke.
+📌 [**Heart Stroke Prediction**](https://github.com/deepakreddyn/heartstorkepredictor) → Application for predicting heart stroke.  
 📌 [**Fake Job Posting Detection**](https://github.com/deepakreddyn/FakeJobDetection) → Deep Learning model for predicting fake job posts.  
 📌 [**AITA - AI Chatbot**](https://chatgpt.com/g/g-w89Z1hIXv-aita-2) → AI-powered chatbot for interactive learning.  
 📌 [**Hotel Reservations Predictor**](https://github.com/deepakreddyn/hotel-reservation) → ML model for predicting booking cancellations.  
